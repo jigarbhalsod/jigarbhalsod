@@ -45,4 +45,4 @@
 
 ## 📫 Let’s Connect    
 - 📧 [E-mail](mailto:bhalsodjigar@gmail.com)    
-- 💼 [LinkedIn](https://www.linkedin.com/in/jigar-bhalsod-80b20227b/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jigar-bhalsod/)
