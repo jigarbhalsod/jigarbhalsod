@@ -1,48 +1,70 @@
-# Hi there! 👋 I'm Jigar Bhalsod    
+# Hi, I’m Jigar Bhalsod 👋
 
-🎓 A B.Tech CS student passionate about **Machine Learning & Data Structures**.  
-🤖 I explore ML from **math & intuition → algorithms → real-world projects**.  
-💻 I enjoy solving **algorithmic challenges (LeetCode style)** and building a strong **CS foundation**.  
-🚀 Always curious, always learning — striving to merge **theory with practice**.  
-
----
-
-## 🛠️ Tech Stack    
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)    
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)    
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)    
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)    
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)    
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=TensorFlow&logoColor=orange)    
-![Data Science](https://img.shields.io/badge/-Data%20Science-14213D?style=flat&logo=scikitlearn&logoColor=yellow)    
+🎓 **B.Tech Computer Science student @ IIIT Nagpur**  
+🧠 Focused on building **strong CS fundamentals + practical Machine Learning skills**  
+⚙️ Learning ML the **right way**: math → algorithms → implementation → evaluation  
+📈 Consistent problem-solver aiming for **research-backed, production-ready ML systems**
 
 ---
 
-## 📚 Machine Learning Journey  
-- 🧠 Started from **intuition & math** → Logistic Regression, Decision Trees, Neural Nets  
-- 📊 Worked on **classification & sentiment analysis**  
-- ⚡ Exploring **data pipelines, APIs, and report generation platforms**  
-- 🔬 Goal: Use ML to create **research-driven, impactful solutions**  
+## 🛠️ Tech Stack
+
+**Languages**
+- C++ (DSA, STL, class-based design)
+- Python (ML, data processing)
+- Java (core OOP)
+- SQL (relational design & queries)
+
+**Tools & Concepts**
+- Git & GitHub  
+- NumPy, Pandas, scikit-learn  
+- Data preprocessing & feature engineering  
+- Model evaluation & experimentation  
 
 ---
 
-## 🔑 Data Structures & Algorithms  
-- 📦 **Linear DS**: Stack, Queue, Linked List → implemented in **class-based C++**  
-- 🌲 **Non-Linear DS**: Trees, Graphs, Heaps, Tries  
-- 🏆 Practicing **LeetCode-style problems** with optimized solutions  
-- 📌 Focus: Writing **clean, class-based implementations** with explicit `main()` functions  
+## 📚 Machine Learning — Current Focus
+
+- Core ML algorithms with **mathematical intuition**
+  - Linear Regression
+  - Logistic Regression
+  - Decision Trees
+  - k-NN
+  - Basics of Neural Networks
+
+- Hands-on experience with:
+  - Classification problems
+  - Sentiment analysis
+  - End-to-end ML pipelines (data → model → results)
+
+- Currently exploring:
+  - Clean experimentation workflows
+  - API-based ML usage
+  - Automated reporting & result interpretation
+
+🎯 **Goal**: Move from toy ML projects to **well-structured, explainable, reproducible solutions**
 
 ---
 
-## 📊 GitHub Stats    
+## 🔑 Data Structures & Algorithms
 
-<p align="center">    
-  <img src="https://github-readme-stats.vercel.app/api?username=jigarbhalsod&show_icons=true&theme=radical" width="48%" />    
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jigarbhalsod&theme=radical" width="48%" />    
-</p>    
+- **Linear Data Structures**
+  - Stack, Queue, Linked List  
+  - Implemented using **class-based C++**
+
+- **Non-Linear Data Structures**
+  - Trees, Graphs, Heaps, Tries
+
+- Problem-solving approach:
+  - LeetCode-style questions
+  - Focus on **time–space optimization**
+  - Clean `main()` functions and readable logic
+
+🎯 **Goal**: Become fast *and* correct — not just pass test cases.
 
 ---
 
-## 📫 Let’s Connect    
-- 📧 [E-mail](mailto:bhalsodjigar@gmail.com)    
-- 💼 [LinkedIn](https://www.linkedin.com/in/jigar-bhalsod/)
+## 📫 Connect
+
+- 📧 Email: **bhalsodjigar@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/jigar-bhalsod](https://www.linkedin.com/in/jigar-bhalsod)
