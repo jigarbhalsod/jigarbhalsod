@@ -4,11 +4,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7B8CFF&center=true&vCenter=true&width=600&lines=Building+real-world+AI+%2F+ML+systems;Computer+Vision+·+RAG+·+LLM+Applications;Seeking+ML%2FAI+Internship+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7B8CFF&center=true&vCenter=true&width=600&lines=Building+real-world+AI+%2F+ML+systems;LLM+%2F+RAG+·+NLP+·+Financial+Analytics;Seeking+ML%2FAI+Internship+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
-📧 bhalsodjigar@gmail.com &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/jigar-bhalsod) &nbsp;·&nbsp; [GitHub](https://github.com/jigarbhalsod)
+📧 bhalsodjigar@gmail.com &nbsp;·&nbsp; +91-93134-3950 &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/jigar-bhalsod) &nbsp;·&nbsp; [GitHub](https://github.com/jigarbhalsod)
 
 </div>
 
@@ -16,30 +16,33 @@
 
 ## ⚡ About
 
-I build applied machine learning systems — from real-time computer vision pipelines to RAG-powered LLM applications. Currently seeking ML/AI internship opportunities.
+I build practical AI/ML systems across LLM/RAG, NLP, structured-data ML, and financial analytics. As a B.Tech CSE student at IIIT Nagpur, I have hands-on experience with Python, LangChain, PyTorch, XGBoost, FastAPI, Docker, and AWS, taking projects from development and evaluation to deployment. Currently seeking ML/AI internship opportunities.
+
+---
+
+## 💼 Experience
+
+### Financial Data Analyst — Zetheta
+*Jul 2026 – Aug 2026 · Remote*
+
+Developed a Bayesian Regime Detection Engine to classify Indian equity markets into 5 market regimes, integrating market, volatility, and macroeconomic signals to support context-aware equity direction forecasting.
 
 ---
 
 ## 🚀 Projects
 
-### 🔍 AI-Powered Resume Scanner & ATS Analyzer
-`Python` `spaCy` `scikit-learn` `Streamlit` `TF-IDF`
+### ⚖️ LexAI — Legal Case Intelligence System
+`RAG` `LLMs` `Prompt Engineering` `Python`
+*Jan 2026 – Feb 2026*
 
-End-to-end resume analysis system with 95%+ structured data extraction accuracy. Built an NLP pipeline for skill identification, an ATS scoring algorithm (0–100) based on keyword relevance and readability, and a job-matching engine using TF-IDF + cosine similarity. Includes AI-content detection via perplexity heuristics and a live Streamlit dashboard.
-
----
-
-### 📄 Semantic Research Paper Recommender (RAG-based)
-`Python` `SentenceTransformers` `FAISS` `HuggingFace` `FastAPI`
-
-Transformer-based semantic search engine replacing keyword matching with dense embeddings. Scalable FAISS retrieval pipeline for sub-second similarity search. FastAPI backend supporting contextual Q&A via a RAG pipeline.
+Identified document navigation and retrieval quality as major friction points for legal research, framing answer relevance and accessibility as core product requirements. Designed a hybrid RAG-based legal intelligence workflow that transforms complex legal text into contextual, plain-language answers while balancing relevance, latency, explainability, and system complexity.
 
 ---
 
-### 🏃 Sports Person Detection with Individual ID Tracking
-`Python` `YOLOv8` `DeepSORT` `OpenCV` `ONNX`
+### 🧬 MetaboClassify — Metabolomic Biomarker Classification Pipeline
+`XGBoost` `PyTorch` `FastAPI` `Docker` `AWS`
 
-Real-time multi-object detection and tracking pipeline with persistent player identity across frames. Achieved ~20% inference latency reduction via ONNX runtime. Evaluated on mAP, FPS, and ID-switch rate under occlusion conditions.
+Framed disease/control classification from metabolomic data as an end-to-end ML decision problem, benchmarking XGBoost and PyTorch MLP approaches to balance predictive performance with dataset characteristics and deployment practicality. Designed the path from raw data to a cloud-accessible prediction service, defining a reproducible FastAPI and Docker deployment workflow for model serving on AWS.
 
 ---
 
@@ -48,37 +51,42 @@ Real-time multi-object detection and tracking pipeline with persistent player id
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+**AI/ML:** Bayesian Modeling, LLMs, Machine Learning, NLP, Prompt Engineering, Python, RAG, SQL, Time-Series Analysis
+**Product:** Journey Mapping, KPI Definition, Opportunity Prioritization, PRD Writing, Problem Discovery, Requirement Scoping, Trade-off Analysis, User Research
 
 ---
 
 ## 🎓 Education
 
-**B.Tech Computer Science & Engineering** — IIIT Nagpur *(Aug 2023 – Jul 2027)*  
-CGPA: 7.88
+**B.Tech Computer Science & Engineering** — IIIT Nagpur *(Aug 2023 – Jul 2027)*
+GPA: 7.84
+Relevant Coursework: Human-Computer Interaction, Software Engineering & SDLC, Database Management Systems, Data Structures & Algorithms
+
+**Higher Secondary Certificate (HSC)** — Shree P.V. Modi School, Rajkot *(May 2023)*
+GPA: 80.7%
 
 ---
 
 ## 🏆 Leadership
 
 - Headed **BizRescue**, E-Summit 2025 — led a team of 5
-- Delivered **cybersecurity awareness session** to 60+ students at DPS MIHAN
+- Delivered **cybersecurity awareness session** to 150+ students at DPS MIHAN; invited to conduct a second session
 - Core Hospitality Team, **TantraFiesta 2024**
 
 ---
